@@ -138,3 +138,12 @@ a single variable.
    text = "hello world"
    new_text = text.replace("world", "Python")
    print(new_text)     -- NB that replace is used in strings rather.
+
+28. Set stores unique and unordered elements.
+unique implies there can't be duplicates.
+     my_set = {1, 2 ,3 ,4 ,5}
+     print(my_set)
+
+29. set() converts a list to a set.
+    my_list = [1,2,3,4,5]
+    my_set = set(my_list)
