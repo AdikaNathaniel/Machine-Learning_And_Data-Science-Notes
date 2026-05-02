@@ -104,3 +104,22 @@ a single variable.
     last element and -3 is that for the green element.
 
 20. List Striding can be applied here as well.
+    numbers = [10,20,30,40,50,60]
+    range_slice = numbers[0:6:2]
+    print(range_slice)   -- This will output 10,30 and 50
+
+21. append() or insert() is used to add elements to a List
+    remove() or pop() is used to delete elements from a List
+
+    numbers = [10,20,30]
+    numbers.append(40)
+    print(numbers)      -- This gives [10,20,30,40]
+
+22. 
+   numbers.remove(20)
+   print(numbers)      -- This gives [10,30,40]
+
+23.
+  numbers = [10,20,30,40,50]
+  numbers[-3:]          -- This is left blank because if we use
+  -1 as the ending element,we will not capture the -50 value.
