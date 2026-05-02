@@ -97,3 +97,10 @@ a single variable.
 1. It is mutable and ordered
 2. It allows for duplicates
 3. Defined with square brackets
+    colors = ["red", "green","blue","yellow"]
+    forward_slice = colors[1:3]
+    print(forward_slice)   -- This prints ["green" , "blue"]
+    // It can also be written as colors[-3:-1] where -1 is the cut for the 
+    last element and -3 is that for the green element.
+
+20. List Striding can be applied here as well.
