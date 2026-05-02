@@ -176,3 +176,12 @@ if an element does not exist.
    intersection_set = set_a.intersection(set_b)
    | -- this is called the pipe operator and it is an OR which is used to
         combine all elements in one set from two sets.
+
+    &  -- this is used for the intersection.
+
+35. 
+   set3 = {1,2,3,4}
+   set4 = {4,5,6,7}
+
+   result = set3 - set4
+   print(result)     -- This gives 1,2 and 3
