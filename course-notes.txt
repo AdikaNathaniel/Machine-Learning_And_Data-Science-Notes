@@ -217,3 +217,27 @@ if an element does not exist.
 40. keys = profile.keys()   -- This is used to retrieve the keys in a dictionary.
     values = profile.values()  -- This is used to retrieve the values
     items = profile.items()    -- This is used to retrieve the key-value pair as a tuple
+
+41. 
+   student = {
+    "name": "John",
+    "age": 20,
+    "grade": "A"
+}
+
+aged = student["age"]
+print(aged)
+
+42. 
+  deeks = {
+    "name": "Product",
+    "price": 10,
+    "quantity": 5
+    }
+
+Final = deeks.copy()   # copy original
+Final["name"] = "new"
+Final["price"] = 15
+Final["quantity"] = 3
+
+print(Final)
