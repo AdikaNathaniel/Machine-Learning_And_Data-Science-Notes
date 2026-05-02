@@ -144,6 +144,11 @@ unique implies there can't be duplicates.
      my_set = {1, 2 ,3 ,4 ,5}
      print(my_set)
 
-29. set() converts a list to a set.
+29. set() converts a list to a set.This can be done to remove duplicates.
     my_list = [1,2,3,4,5]
     my_set = set(my_list)
+
+30. my_set = {1,2,3}
+    my_set.add(4)
+    my_set.update([5,6])
+    print(my_set)   -- This gives {1,2,3,4,5,6}
