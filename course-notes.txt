@@ -185,3 +185,11 @@ if an element does not exist.
 
    result = set3 - set4
    print(result)     -- This gives 1,2 and 3
+
+36. Keys use key-value pairs.
+    Eg:
+       student = {
+        "name" : "Alice",
+        "age" : 20,
+        "grade" : A
+       }
