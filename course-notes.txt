@@ -123,3 +123,8 @@ a single variable.
   numbers = [10,20,30,40,50]
   numbers[-3:]          -- This is left blank because if we use
   -1 as the ending element,we will not capture the -50 value.
+
+24. A list out of a larger list is a sublist.
+25. Instead of using append twice to add two numbers,you can rather do:
+   numbers = [1,2,3,4,5]
+   numbers.extend([6,7])    -- This will give [1,2,3,4,5,6,7]
