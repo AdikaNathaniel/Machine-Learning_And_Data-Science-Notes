@@ -210,4 +210,6 @@ if an element does not exist.
 
 38. To add ,a value,we use both the key and value thus,
        profile["email"] = "alice@example.com"
-       
+
+39. To remove an item,
+       del profile["grade"]
