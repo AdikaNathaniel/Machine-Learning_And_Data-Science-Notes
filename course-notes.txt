@@ -49,3 +49,5 @@ Eg :
     print(strided)        -- Pormig 
 
 10. len() gives the output of a string.
+11. PYTHON to get frm THON ,you must do:
+      thon = python[2:6] -- Extend the last by one number.
