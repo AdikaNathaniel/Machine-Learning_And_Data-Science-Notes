@@ -174,3 +174,5 @@ if an element does not exist.
 
 34. This is used to find the intersection.
    intersection_set = set_a.intersection(set_b)
+   | -- this is called the pipe operator and it is an OR which is used to
+        combine all elements in one set from two sets.
