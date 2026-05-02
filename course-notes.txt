@@ -193,3 +193,21 @@ if an element does not exist.
         "age" : 20,
         "grade" : A
        }
+
+37. Dictionary Key Slicing is the retrieval of data using keys.
+      Eg:
+        profile = {
+            "name" : "Alice",
+            "age" : 25,
+            "city" : "New York"
+        }
+
+        name = profile["name"]
+        print(name)
+
+        age = profile["age"]
+        print(age)
+
+38. To add ,a value,we use both the key and value thus,
+       profile["email"] = "alice@example.com"
+       
