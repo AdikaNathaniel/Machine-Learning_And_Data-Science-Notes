@@ -1,0 +1,51 @@
+1. Pearson Correlation test measures the strength and the direction of a
+linear relationship between two variables.
+
+2.
+ 5 + 3 is an expression
+   5 and 3 are operands and + is an operator.
+ x * 7 is an expression
+     Expression is a combination of values,variables,operators and function calls
+     that are evaluated to give a result.
+len ("Hello") - This helps to find the length of a string and it is also
+an expression.
+
+3. Variable is used to hold data that can be updated or reused.
+    name = "Alice"   -- The variable is name
+    _temp = "nathan"
+    my_var = "Ashesi"
+    1var  as a variable will not work.
+    Name  is not the same variable name as name.
+4. int stores both positive and negative numbers.
+5. Typecasting involves converting one data type to another.
+   Eg : num = 10
+        num_float = float(num)   -- By this,the result becomes 10.0
+
+        pi = 3.14
+        pi_int = int(pi)    -- By this,the result becomes 3
+
+        text = "123"
+        number = int(text)  -- By this,the output is 123.
+
+        is_empty = bool("")  -- By this,the output is False because there is
+                                no value within the quotation mark.
+6. my_string = "Python"
+   print(my_string[0])  -- This prints P
+7.
+  -1 is the index of the last character and -2 is the index of the second
+last character.
+    print(my_string[-1])  -- This prints n
+
+8. my_string = "Programming"
+   sliced = my_string[0:6] -- This gives Progra
+
+9.Striding is used to skip characters while slicing.
+  Syntax:
+        string[start:end:step] - The step implies that if say 2,take the 2nd values
+        as you traverse.
+Eg :
+    my_string = "Programming"
+    strided = my_string[0:11:2]
+    print(strided)        -- Pormig 
+
+10. len() gives the output of a string.
