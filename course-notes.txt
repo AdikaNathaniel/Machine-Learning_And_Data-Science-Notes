@@ -60,5 +60,19 @@ Eg :
    python.upper()
    python.lower()
 
-14. sentence = "I love Python"
+14. To replace a particular word of Python to Java,
+sentence = "I love Python"
 new_sentence = sentence.replace("Python","Java")
+
+15.Tuples can contain multiple items in a single variable.They are immutable and
+ordered.They allow for duplicates and they are defined by parenthesis.
+       Eg :
+          fruits = ("apple","banana","cherry")
+          print(fruits)
+
+16. Tuple Concatenation is:
+    tuple1 = (1,2,3)
+    tuple2 = (4,5,6)
+
+    result = tuple1 + tuple2
+    print(result)  -- This gives 1,2,3,4,5 and 6
