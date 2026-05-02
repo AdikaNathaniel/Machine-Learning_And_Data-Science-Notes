@@ -55,3 +55,10 @@ Eg :
     This gives :
         Hello
              World
+
+13.For conversion to uppercase and lowercase respectively,
+   python.upper()
+   python.lower()
+
+14. sentence = "I love Python"
+new_sentence = sentence.replace("Python","Java")
