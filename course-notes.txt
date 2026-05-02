@@ -213,3 +213,7 @@ if an element does not exist.
 
 39. To remove an item,
        del profile["grade"]
+
+40. keys = profile.keys()   -- This is used to retrieve the keys in a dictionary.
+    values = profile.values()  -- This is used to retrieve the values
+    items = profile.items()    -- This is used to retrieve the key-value pair as a tuple
