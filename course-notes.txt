@@ -388,3 +388,6 @@ a = 10
 b = 12
 
 print(add_numbers(a, b))
+
+60. API is Application Programming Interface and it allows
+different applications to communicate with each other.
