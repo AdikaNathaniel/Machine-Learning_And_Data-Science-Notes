@@ -400,3 +400,6 @@ HTTP requests that allow to perform CRUD operations.
 It is stateful implyin that each request must be independent
 and have all the necessary and requisite data to make 
 a request for data at a specific point.
+
+62. BeautifulSoup helps to navigate and scrape content from
+web pages.
