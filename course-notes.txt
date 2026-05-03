@@ -362,3 +362,6 @@ the result is not given back to the function.
 be used throughout the program.
    * When data needs to be shared and modified across the entire program,
    a global variable is best to be used.
+
+   Local variable and declared and can be used only within that function.
+
