@@ -357,3 +357,8 @@ returned to the function i.e the result but for print,
 the result is not given back to the function. 
 * Arguments are passed to a function when it is called.
 * Parameters are used when creating a function.
+
+56. Global variables are declared outside a ny function and can 
+be used throughout the program.
+   * When data needs to be shared and modified across the entire program,
+   a global variable is best to be used.
