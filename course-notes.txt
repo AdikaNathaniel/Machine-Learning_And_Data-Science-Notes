@@ -268,3 +268,40 @@ else:
     result = "Odd"
      
 print(result)
+
+46.
+ number = -43
+
+if number > 0:
+    print("Positive")
+elif number < 0:
+    print("Negative")
+else:
+    print("Zero")
+    
+47.
+year = 2099
+
+if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+    print("Leap Year")
+else:
+    print("Not a Leap Year")
+
+48.
+   side1 = 12
+   side2 = 13
+   side3 = 12
+
+if side1 == side2 == side3:
+    print("Equilateral")
+elif side1 == side2 or side1 == side3 or side2 == side3:
+    print("Isosceles")
+else:
+    print("Scalene")
+
+NB :
+ Where all three sides are equal,that is equilateral.
+ Where two are equal,you've got Isosceles
+ Where all there are different,you've got Scalene.
+
+49. Loops help to repeat a block of code repeatedly.
