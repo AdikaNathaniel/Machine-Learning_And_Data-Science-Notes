@@ -241,3 +241,30 @@ Final["price"] = 15
 Final["quantity"] = 3
 
 print(Final)
+
+43. Branching helps execute code based on some conditions.
+ Statements like if,if-else and if-elif-else are used for branching.
+
+44.
+  score = 67
+
+if score >= 90:
+    print("A")
+elif score >= 80:
+    print("B")
+elif score >= 70:
+    print("C")
+elif score >= 60:
+    print("D")
+else:
+    print("F")
+
+45.
+ number  = 56
+
+if number % 2 == 0:
+    result = "Even"
+else:
+    result = "Odd"
+     
+print(result)
