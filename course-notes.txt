@@ -315,3 +315,11 @@ NB :
     Eg :
        for num in range(1,6):
            print(num)           -- This gives 1 to 5 
+51. Using the enumerate for looping together with the for 
+loop.
+     names= ["Alice","Bob","Chares"]
+
+     for index,name in enumerate(names):
+         print(f"Index: {index}, Name : {name})  -- This will give Index : 0, Name : Alice
+                                                                   Index : 1 , Name : Bob
+                                                                   Index : 2, Name : Chares
