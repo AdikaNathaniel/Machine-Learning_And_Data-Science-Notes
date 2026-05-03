@@ -409,4 +409,5 @@ readline() is used to read the lines of a file,one at a time.
 
 64.Pandas is an open source python library used for data
 manipulation and analysis of data.
-  df.head() -- This helps to retrieve a specific number of rows.
+  df.head() -- This helps to retrieve a specific number of rows on top to retrieve.
+  df.tail() -- This retrieves some bottom rows.
