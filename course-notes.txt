@@ -378,3 +378,13 @@ exponents.
             
            def add(self):
                return self.num1 + self.num2
+
+59. 
+  
+def add_numbers(a, b):
+    return a + b
+
+a = 10
+b = 12
+
+print(add_numbers(a, b))
