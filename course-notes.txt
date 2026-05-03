@@ -323,3 +323,37 @@ loop.
          print(f"Index: {index}, Name : {name})  -- This will give Index : 0, Name : Alice
                                                                    Index : 1 , Name : Bob
                                                                    Index : 2, Name : Chares
+
+52.
+    numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+    for num in numbers:
+    if num % 2 != 0:
+        print(num)          -- This prints odd numbers in the list
+
+53.
+   total = 0
+   num = 1
+
+while num <= 13:
+    total += num
+    print(num)
+    num += 1
+
+print("Total:", total)
+
+54. Function is a block of reusable code.
+It works by the DRY principle.
+   Eg :
+      def greet(name):
+          print(f"Hello,{name}!")
+
+      greet("Alice")
+      greet("Bob")
+
+55. The difference between return and print in functions
+is that for return,the value can be used in other places because it is
+returned to the function i.e the result but for print,
+the result is not given back to the function. 
+* Arguments are passed to a function when it is called.
+* Parameters are used when creating a function.
