@@ -394,3 +394,9 @@ different applications to communicate with each other.
    * Reusability of APIs implies that developers can
    integrate Google maps and other payment gateway APIs 
    in their applications.
+
+61. REST stands for Representational State Transfer has
+HTTP requests that allow to perform CRUD operations.
+It is stateful implyin that each request must be independent
+and have all the necessary and requisite data to make 
+a request for data at a specific point.
