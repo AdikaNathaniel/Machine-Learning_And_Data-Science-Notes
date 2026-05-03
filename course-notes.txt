@@ -391,3 +391,6 @@ print(add_numbers(a, b))
 
 60. API is Application Programming Interface and it allows
 different applications to communicate with each other.
+   * Reusability of APIs implies that developers can
+   integrate Google maps and other payment gateway APIs 
+   in their applications.
