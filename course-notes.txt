@@ -367,3 +367,14 @@ be used throughout the program.
 
 57. ** is called dual multiplication and is used for 
 exponents.
+
+58. Class is a blueprint for creating objects.
+    Object is an instance of a class.
+    Eg: 
+       class Calculator:
+           def _init_(self,num1,num2):
+               self.num1 = num1
+               self.num2 = num2
+            
+           def add(self):
+               return self.num1 + self.num2
