@@ -403,3 +403,6 @@ a request for data at a specific point.
 
 62. BeautifulSoup helps to navigate and scrape content from
 web pages.
+
+63. open() is used to import and read files.
+readline() is used to read the lines of a file,one at a time.
