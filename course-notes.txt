@@ -365,3 +365,5 @@ be used throughout the program.
 
    Local variable and declared and can be used only within that function.
 
+57. ** is called dual multiplication and is used for 
+exponents.
