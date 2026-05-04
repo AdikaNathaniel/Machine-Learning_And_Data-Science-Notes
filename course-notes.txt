@@ -589,3 +589,10 @@ If your data structure is inefficient:
 * Searching takes longer
 * Inserting/updating takes longer
 * More CPU work is needed
+
+86. Tableau and PowerBi are data visualization tools.
+SPSS which is Statistical Package for Social Sciences
+is used by academics and researchers for data analytics.
+
+87.Population is the entire group whereas a sample
+is a subset of the population.
