@@ -466,3 +466,5 @@ Definition: Raised when attempting to access a file or directory that does not e
 
 Eg is gathering data on what products costumers are likely to buy
 in a company based on the data you get from them.
+After gathering the data,you can draw some insights from the data
+thus,data analysis then make a prediction thus machine learning.
