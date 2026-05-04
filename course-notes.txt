@@ -437,3 +437,4 @@ gracefully without stopping the execution of a program.
                   Try , Except ,Else block where the else runs only when the exception is not executed.
 
 Typical use case is where a file is not found,what error to print to a user.
+Another example is the zero division error.
