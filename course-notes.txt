@@ -612,3 +612,12 @@ out how away it is from the mean.Too high a z-score,implies
 an outlier.
 
 * Duplicates are best handled by deletion.
+
+89.Joining data from other tables is allowed.
+This can be joined using a primary key.
+
+- Inner Join - Finds common columns in both tables to use.
+- Left Join - This includes all rows from the left table and only matching
+rows from the right table.For those in left but not right,
+we make it all NULL.
+- Right Join - Follows directly from the left join.
