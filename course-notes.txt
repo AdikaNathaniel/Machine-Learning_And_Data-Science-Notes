@@ -539,4 +539,9 @@ performs on unseen data.
 It helps to determine the accuracy and the reliability of a model
 performance.
 It helps to identify issues of overfitting,underfitting and bias.
+           MODEL EVALUATION METRICS
+A. Accuracy :  This measures the correctness of a prediction but is misleading
+for imbalanced datasets.
 
+B. Precision : This measures the level of correctness of a positive prediction
+where this is very important when a false positive is costly.
