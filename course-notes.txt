@@ -420,3 +420,8 @@ manipulation and analysis of data.
 
 
 66. !pip install pandas
+67.JSON is a data interchange format.It allows machines to parse and
+generate data.
+
+68.xmL stands for extensible Markup Language and it allows to
+store and transport data in a hierarchical format.
