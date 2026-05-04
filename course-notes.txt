@@ -438,3 +438,31 @@ gracefully without stopping the execution of a program.
 
 Typical use case is where a file is not found,what error to print to a user.
 Another example is the zero division error.
+
+70. Types of Error:
+1. SyntaxError
+Definition: Raised when Python detects invalid syntax in the code.
+
+2. ValueError
+Definition: Raised when a function receives an argument of the correct type but with an inappropriate value.
+Eg:
+   int("abc")
+Explanation:
+The int() function expects a string that represents a valid integer (e.g., "123"). 
+The string "abc" is not a valid integer, so Python raises a ValueError.
+Thus,int("123") this is correct.
+
+3. ZeroDivisionError
+Definition: Raised when attempting to divide a number by zero.
+
+4. FileNotFoundError
+Definition: Raised when attempting to access a file or directory that does not exist.
+
+71.Data Science comprises:
+  * Statistics
+  * Machine Learning
+  * Computer Science
+  * Domain Expertise
+
+Eg is gathering data on what products costumers are likely to buy
+in a company based on the data you get from them.
