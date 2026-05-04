@@ -468,3 +468,21 @@ Eg is gathering data on what products costumers are likely to buy
 in a company based on the data you get from them.
 After gathering the data,you can draw some insights from the data
 thus,data analysis then make a prediction thus machine learning.
+By machine learning,we are using trends in past data to make 
+a prediction of what is possibe in the future.
+ Data Science allows businesses make decisions based on data
+ rather than relying on intuition or guesses.
+    Use Cases:
+* Healthcare : Can be used to predict the likelihood of a complication.
+* Finance : Helps in fraud detection by detecting unusual patterns in tarnsactions 
+and risk assessment by accessing the likelihood of a loan default.
+* Retail : Helps to offer personalised recommendation for a company based on
+what their clients enjoy.
+* Predictive Maintenance : This helps to identify machine failures before they occur.
+* Transportation : Helps to optimize traffic flow by analysing data from sensors.
+
+72.Process Is:
+  * Data cleaning and preprocessing
+  * Data analysis and Visualization
+  * Model Building
+  * Optimization
