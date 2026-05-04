@@ -541,7 +541,13 @@ performance.
 It helps to identify issues of overfitting,underfitting and bias.
            MODEL EVALUATION METRICS
 A. Accuracy :  This measures the correctness of a prediction but is misleading
-for imbalanced datasets.
+for imbalanced datasets.Exanple is where 90% of a dataset belongs to one class,
+a model that needs to make a prediction,will predict towards that of the 
+90 percent class.
+Thus,accuracy is best used for balanced datasets.So 50% males and 
+50% females is a balanced dataset.
 
 B. Precision : This measures the level of correctness of a positive prediction
 where this is very important when a false positive is costly.
+
+C.
