@@ -572,3 +572,6 @@ In medical diagnosis, the more dangerous error is usually a false negative—mis
 
 83.F1-Score is used to balance precision and recall and is 
 best used for imbalanced data sets.
+               summary
+A. Balanced Datasets : Use accuracy
+B. Imbalance Dataset : Use F1-Score and AUC-ROC.
