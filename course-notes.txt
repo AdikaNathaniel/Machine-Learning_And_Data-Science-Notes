@@ -492,3 +492,5 @@ what their clients enjoy.
 * Sckit-Learm - For machine Learning
 * Numpy - For numerical operations
 * Matplotlib/Seaborn - For data visualization.
+
+74.Normalization ensures data stays within a certain range.
