@@ -519,3 +519,24 @@ noise instead of patterns.
 It is dyanamic that is they learn and improve as they are
 exposed to new data.
 * Bias in ML deals with unrepresented data amongst a large dataset.
+
+79.Deep Learning simulates how the human brain works hence it uses
+neural networks with mant layers to model patterns in large
+datasets.
+   Eg:
+     Self driving cars uses CNN.
+     Machine Learning uses other algorithms like decision trees but
+     deep learning uses neural nets.
+     Machine Learning uses conventional CPUs whereas deep learning
+     uses GPUs or TPUs.
+     Eg is that ML can be used for email filtering whereas DL involves image recognition.
+
+80.ReLu allows positive values to pass through and set negative values to zero.
+81.DL  major challenge is overfitting.
+
+82.Model Evaluation is the process of accessing how well an ML model
+performs on unseen data.
+It helps to determine the accuracy and the reliability of a model
+performance.
+It helps to identify issues of overfitting,underfitting and bias.
+
