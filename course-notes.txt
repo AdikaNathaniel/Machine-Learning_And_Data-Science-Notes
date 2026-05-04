@@ -578,3 +578,4 @@ B. Imbalance Dataset : Use F1-Score and AUC-ROC.
 
 84. Model Deployment is allowing a model to be available for 
 use in a production environment.
+Deployment is necessary for improvement of a model over time.
