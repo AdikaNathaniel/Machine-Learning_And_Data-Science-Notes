@@ -491,4 +491,4 @@ what their clients enjoy.
 * Pandas - For Data manipulation
 * Sckit-Learm - For machine Learning
 * Numpy - For numerical operations
-* Matplotlib - For data visualization.
+* Matplotlib/Seaborn - For data visualization.
