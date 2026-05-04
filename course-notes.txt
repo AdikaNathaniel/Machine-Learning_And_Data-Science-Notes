@@ -425,3 +425,8 @@ generate data.
 
 68.xmL stands for extensible Markup Language and it allows to
 store and transport data in a hierarchical format.
+   Eg :
+   <employee>
+        <name>Alice<name>
+        <age>25<age>
+    <employee>
