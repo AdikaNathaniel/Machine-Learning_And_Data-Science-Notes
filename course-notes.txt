@@ -551,9 +551,21 @@ B. Precision : This measures the level of correctness of a positive prediction
 where this is very important when a false positive is costly.
 Thus,how accurate is the ones that the model predicted as positive
 and it actually is positive.
+Eg :
+  Example:
+Spam filter: marking a real email as spam = bad
+            You want high precision
 
-C.Recall is how the model identifed positive instances only.
+Recall is used when we cannot leave room for making wrong positive corrections.
+That’s actually precision, not recall.
+
+C.Recall Recall is how many actual positives were correctly identified.
 Recall is considered when we cannot leave room for making wrong positive
 corrections thus,in medical diagnostics,making a correct prediction
 for cancer is imperative hence recall is used as the main
 metric, since missing a correct prediction can be deadly.
+In summary,
+  Precision	- Correctness of positive predictions. This avoids False Positives.
+  Recall - Capturing all actual positives. This avoids False Negatives
+
+In medical diagnosis, the more dangerous error is usually a false negative—missing a condition that actually exists.
