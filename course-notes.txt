@@ -501,8 +501,21 @@ Platforms mostly used are Kaggle and DataCamp.
 76.Fields of Data Science:
  * Data analysis
  * Business Intelligence - Total sales,profits and loss made
+ * Statistical Modelling
  ETL is extracting,transforming and loading into a central db.
  77.PowerBi is used for interactive reports and dashboards whereas
  Tableau is used for data visualization.
  * Business Intelligence is helping a business understand what has happened
  and what might happen.
+  * Statistical Modelling involves uisng mathematical methods to 
+  represent relationships between variables.
+
+78.Overfitting is where a complex becomes complex hence capturing
+noise instead of patterns.
+* In overfitting,it performs well on training data but poorly on new data.
+   Underfitting is where the model is too simple to capture patterns.
+
+* Machine Learning is a subset of artificial intelligence.
+It is dyanamic that is they learn and improve as they are
+exposed to new data.
+* Bias in ML deals with unrepresented data amongst a large dataset.
