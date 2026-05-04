@@ -494,3 +494,11 @@ what their clients enjoy.
 * Matplotlib/Seaborn - For data visualization.
 
 74.Normalization ensures data stays within a certain range.
+75.R is mostly for statistical analysis.
+Platforms mostly used are Kaggle and DataCamp.
+* Tell a story with the data.
+
+76.Fields of Data Science:
+ * Data analysis
+ * Business Intelligence - Total sales,profits and loss made
+ ETL is extracting,transforming and loading into a central db.
