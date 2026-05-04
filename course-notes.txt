@@ -605,3 +605,8 @@ the mode can be used.
 
 * Data Deletion is another option that can be explored to handle 
 this.
+
+* Outliers must be checked for.
+Z-score is calculated using the standard deviation to find
+out how away it is from the mean.Too high a z-score,implies
+an outlier.
