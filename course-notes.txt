@@ -621,3 +621,5 @@ This can be joined using a primary key.
 rows from the right table.For those in left but not right,
 we make it all NULL.
 - Right Join - Follows directly from the left join.
+- Outer Join - Returns rows from both tables and for those
+non-matching,it is given as NULL.
