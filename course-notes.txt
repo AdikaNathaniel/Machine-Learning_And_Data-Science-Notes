@@ -569,3 +569,6 @@ In summary,
   Recall - Capturing all actual positives. This avoids False Negatives
 
 In medical diagnosis, the more dangerous error is usually a false negative—missing a condition that actually exists.
+
+83.F1-Score is used to balance precision and recall and is 
+best used for imbalanced data sets.
