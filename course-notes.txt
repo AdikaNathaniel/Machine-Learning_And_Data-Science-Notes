@@ -549,5 +549,11 @@ Thus,accuracy is best used for balanced datasets.So 50% males and
 
 B. Precision : This measures the level of correctness of a positive prediction
 where this is very important when a false positive is costly.
+Thus,how accurate is the ones that the model predicted as positive
+and it actually is positive.
 
-C.
+C.Recall is how the model identifed positive instances only.
+Recall is considered when we cannot leave room for making wrong positive
+corrections thus,in medical diagnostics,making a correct prediction
+for cancer is imperative hence recall is used as the main
+metric, since missing a correct prediction can be deadly.
