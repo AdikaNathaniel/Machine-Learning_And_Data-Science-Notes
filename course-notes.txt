@@ -411,3 +411,12 @@ readline() is used to read the lines of a file,one at a time.
 manipulation and analysis of data.
   df.head() -- This helps to retrieve a specific number of rows on top to retrieve.
   df.tail() -- This retrieves some bottom rows.
+
+65.
+ df.to_excel("without_index.xlsx", index=False)
+    The purpose of the index=False is to ensure that the default index of
+    0 and 1 that shows on the actual data does not get  exported to the
+    sheet so no 0,1,2 and all shows.
+
+
+66. !pip install pandas
