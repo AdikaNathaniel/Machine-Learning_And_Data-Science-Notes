@@ -502,3 +502,7 @@ Platforms mostly used are Kaggle and DataCamp.
  * Data analysis
  * Business Intelligence - Total sales,profits and loss made
  ETL is extracting,transforming and loading into a central db.
+ 77.PowerBi is used for interactive reports and dashboards whereas
+ Tableau is used for data visualization.
+ * Business Intelligence is helping a business understand what has happened
+ and what might happen.
