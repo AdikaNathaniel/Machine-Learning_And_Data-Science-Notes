@@ -486,3 +486,9 @@ what their clients enjoy.
   * Data analysis and Visualization
   * Model Building
   * Optimization
+
+73. Python and R are used for data modeling and manipulation.
+* Pandas - For Data manipulation
+* Sckit-Learm - For machine Learning
+* Numpy - For numerical operations
+* Matplotlib - For data visualization.
