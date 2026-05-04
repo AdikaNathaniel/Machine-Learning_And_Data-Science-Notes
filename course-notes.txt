@@ -596,3 +596,12 @@ is used by academics and researchers for data analytics.
 
 87.Population is the entire group whereas a sample
 is a subset of the population.
+
+88.Data Cleaning is the first step for ensuring that
+data is safe for processing.
+* Mean and median imputation is for numerical dataset
+for handling missing values whereas for text values,
+the mode can be used.
+
+* Data Deletion is another option that can be explored to handle 
+this.
