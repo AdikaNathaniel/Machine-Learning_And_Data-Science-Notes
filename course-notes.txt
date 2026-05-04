@@ -435,3 +435,5 @@ store and transport data in a hierarchical format.
 gracefully without stopping the execution of a program.
  Done mostly with Try,Except block
                   Try , Except ,Else block where the else runs only when the exception is not executed.
+
+Typical use case is where a file is not found,what error to print to a user.
