@@ -582,3 +582,10 @@ Deployment is necessary for improvement of a model over time.
 Edge Deployment : Allowing for models to be used on edge devices
 and thus reducing latency thus enabling offline use.
 Processing happens locally hence less latency.
+
+85.
+The wrong data structure can increase latency, which users experience as slowness.
+If your data structure is inefficient:
+* Searching takes longer
+* Inserting/updating takes longer
+* More CPU work is needed
