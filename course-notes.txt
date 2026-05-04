@@ -610,3 +610,5 @@ this.
 Z-score is calculated using the standard deviation to find
 out how away it is from the mean.Too high a z-score,implies
 an outlier.
+
+* Duplicates are best handled by deletion.
